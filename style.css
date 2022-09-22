@@ -22,7 +22,7 @@ section {
 }
 span {
   position: absolute;
-  bottom: 50px;
+  bottom: 45%;
   font-weight: bolder;
   color: transparent;
   transition: all 1s;
@@ -49,4 +49,5 @@ body section:hover span {
   bottom: 50%;
   font-size: 50px;
   color: white;
+  text-shadow: 0 0 15px black;
 }
